@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/background/background.jpg</file>
+        <file>image/image/quit.png</file>
+        <file>image/image/play.png</file>
+        <file>image/image/next.png</file>
+        <file>image/image/pre.png</file>
+        <file>image/image/sliderHandle.png</file>
+        <file>image/image/loop.png</file>
+        <file>image/image/loop-one.png</file>
+        <file>image/image/random.png</file>
+        <file>image/image/min.png</file>
+        <file>image/image/volumeHandle.png</file>
+        <file>image/image/local-music.png</file>
+        <file>image/image/favo-music.png</file>
+        <file>image/image/current-music.png</file>
+        <file>image/image/music-file.png</file>
+        <file>image/image/music-playing.png</file>
+        <file>image/image/detail.png</file>
+        <file>image/image/remove.png</file>
+        <file>image/image/To-playlist.png</file>
+        <file>image/image/music.png</file>
+        <file>image/image/music-voice.png</file>
+        <file>image/image/like.png</file>
+        <file>image/image/To-like.png</file>
+        <file>image/image/exit.png</file>
+        <file>image/image/systemTrayIcon.png</file>
+        <file>image/image/singer.png</file>
+        <file>image/image/sort-alpha-asc_ea48_ether.png</file>
+        <file>image/image/addFromLocal.png</file>
+        <file>image/image/non-music.png</file>
+        <file>image/image/Title.png</file>
+        <file>image/image/clear.png</file>
+        <file>image/image/about.png</file>
+        <file>image/image/stop.jpg</file>
+        <file>image/image/pause.png</file>
+        <file>image/image/music-dir.png</file>
+        <file>image/image/happyMove.gif</file>
+    </qresource>
+</RCC>
